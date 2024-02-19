@@ -15,8 +15,9 @@ This project is a responsive crypto dashboard built using HTML, CSS, and JavaScr
 - **Recent Transactions**: Users can view recent transactions, including details such as service type, transaction date, card details, and transaction amount.
 
 ## Screenshots
+
 ### Light Mode
-![Light Mode](https://github.com/Mitesh-Barve/Crypto-Asset-Dashboard-Manager-Responsive-/assets/128367882/7639ff32-59bc-4b62-8130-1a21eb645b2a)
+<img width="1277" alt="Screenshot 2024-02-19 lm2" src="https://github.com/Mitesh-Barve/Crypto-Asset-Manger-Dashboard-Responsive-/assets/128367882/eec00e3b-890c-4592-824b-75e05e0672cb">
 
 ### Dark Mode
 ![Dark Mode](https://github.com/Mitesh-Barve/Crypto-Asset-Dashboard-Manager-Responsive-/assets/128367882/e2e7fec8-2009-46de-818a-a0cefa246db9)
