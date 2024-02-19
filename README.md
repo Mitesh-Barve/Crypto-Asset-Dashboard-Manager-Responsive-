@@ -21,7 +21,7 @@ This project is a responsive crypto dashboard built using HTML, CSS, and JavaScr
 - Chart.js (for chart visualization)
 
 ## Contributors
-- [Mitesh Barve](https://github.com/miteshbarve)
+- [Mitesh-Barve](https://github.com/Mitesh-Barve)
 
 ## License
 This project is licensed under the MIT License.
