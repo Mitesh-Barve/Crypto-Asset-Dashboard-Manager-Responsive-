@@ -14,6 +14,12 @@ This project is a responsive crypto dashboard built using HTML, CSS, and JavaScr
 - **Investments**: Includes a section for tracking investments in different companies, providing details such as company name, date of investment, bond quantity, and investment amount.
 - **Recent Transactions**: Users can view recent transactions, including details such as service type, transaction date, card details, and transaction amount.
 
+##SAMPLE PROJECT
+#LIGHT MODE
+<img width="1273" alt="lm" src="https://github.com/Mitesh-Barve/Crypto-Asset-Dashboard-Manager-Responsive-/assets/128367882/7639ff32-59bc-4b62-8130-1a21eb645b2a">
+#DARK MODE
+<img width="1280" alt="dm" src="https://github.com/Mitesh-Barve/Crypto-Asset-Dashboard-Manager-Responsive-/assets/128367882/e2e7fec8-2009-46de-818a-a0cefa246db9">
+
 ## Technologies
 - HTML
 - CSS
